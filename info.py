@@ -26,7 +26,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "8125790611:AAGe2jt4oR6JhklbrrXmExHHHVkrYlu
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 PICS = (environ.get('PICS', 'https://envs.sh/_TS.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://envs.sh/_TS.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/AKSHAT_PRiNCE")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
